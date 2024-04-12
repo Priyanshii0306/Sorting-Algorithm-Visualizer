@@ -1,0 +1,78 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    text-align: center;
+    padding: 2rem 0;
+    background-color: #f0f0f0;
+  }
+  
+  header h1 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  header h2 {
+    font-size: 1.2rem;
+    color: #808080;
+  }
+  
+  header img {
+    width: 100%;
+    max-width: 700px;
+    margin: 1rem auto;
+  }
+  
+  main {
+    padding: 2rem;
+  }
+  
+  .benefits {
+    margin-bottom: 2rem;
+  }
+  
+  .benefits h3 {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  
+  .benefits ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .benefits li {
+    margin-bottom: 0.5rem;
+  }
+  
+  .call-to-action {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .call-to-action .button {
+    display: inline-block;
+    padding: 1rem 2rem;
+    margin: 0.5rem;
+    border: 1px solid #ccc;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .call-to-action .button.secondary {
+    background-color: #ccc;
+  }
+  
+  .call-to-action .button:hover {
+    background-color: #ddd;
+  }
+  
+  .why-choose-us {
+    margin-bottom: 2rem;
+  }  
